@@ -68,4 +68,4 @@ If available, otherwise, these fields contain NULL-values.
 
 * Use RMSE to evaluate the predictions
 
-To download the dataset click [here]().
+To download the dataset click [here](https://github.com/rajeevvhanhuve/Book-Rental-Recommendation/blob/main/book%20rental%20datasets.zip).
